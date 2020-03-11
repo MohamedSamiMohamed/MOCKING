@@ -26,15 +26,15 @@
       }
 
   
- ] ,
+ ],
   "userlogin" : [
     {
-    "username":"areej",
-     "password":"btngana"
+    "username_log":"areej",
+     "password_log":"btngana"
     },
     {
-     "username":"asdasd",
-     "password":"basd"
+     "username_log":"asdasd",
+     "password_log":"basd"
     
     }
   ]
