@@ -1,4 +1,4 @@
-  {
+{
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -11,4 +11,45 @@
   "profile": {
     "name": "typicode"
   }
+  "users":[
+      {
+"username":"Samy"
+"email":"Mohamed.samy99@hotmail.com"
+"password":"123456"
+
+      }
+            {
+"username":"Asmaa"
+"email":"Asmaa.samy99@hotmail.com"
+"password":"qwerty"
+
+      }
+            {
+"username":"Areej"
+"email":"Areej.samy99@hotmail.com"
+"password":"asc456"
+
+      }
+            {
+"username":"yasmine"
+"email":"yasmine.samy99@hotmail.com"
+"password":"1asl6"
+
+      }
+            {
+"username":"mahmoud"
+"email":"mahmoud.samy99@hotmail.com"
+"password":"12pio6"
+
+      }
+            {
+"username":"mostafa"
+"email":"mostafa.samy99@hotmail.com"
+"password":"12345asdasd6"
+
+      }
+  ]
+
+  
+  
 }
