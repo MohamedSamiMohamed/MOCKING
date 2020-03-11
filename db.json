@@ -26,16 +26,6 @@
       }
 
   
- ],
-  "userlogin" : [
-    {
-    "username_log":"areej",
-     "password_log":"btngana"
-    },
-    {
-     "username_log":"asdasd",
-     "password_log":"basd"
-    
-    }
-  ]
+ ]
+
 }
